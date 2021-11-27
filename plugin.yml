@@ -1,0 +1,5 @@
+name: SMetas
+authors: [zSlowly]
+version: 1.0
+depend: [Vault]
+main: pt.slowly.metas.Main
